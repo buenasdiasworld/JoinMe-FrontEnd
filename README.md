@@ -4,20 +4,9 @@ this is front end for join me app
 
 ## information
 
-this is start page of join me app
-email and password forms for login
-registration button to navigte to registration page
-forgot password button to to navigte to restore password page
+flutter, dart
 
-currently buttons have no added functionality
+profile and message page have not been developed yet
 
-###
-TEST communication with backend
-start simple server
-https://github.com/buenasdiasworld/simple_server.git
-
-on http://localhost:8080/hello GET returns "hello world from back end"
-
-text displayed after login button pressed
-
-is server is off no data displayed
+### how to start
+open projet in android studio, get dependencies and start
