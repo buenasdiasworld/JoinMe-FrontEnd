@@ -9,7 +9,7 @@ flutter, dart
 profile and message page have not been developed yet
 
 I have developed this projest as part of the team, 
-my tast was events slider page
+my task was events slider page
 
 ### how to start
-open projet in android studio, get dependencies and start
+open project in android studio, get dependencies and start
